@@ -1,3 +1,3 @@
 # github-flow-practice
 ギットハブフローの練習だよ
-とんかつ
+味噌カツ
